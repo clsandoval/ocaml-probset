@@ -1,5 +1,6 @@
 # ocaml-probset
-Problem set for my Ocaml class
+###Problem set for my Ocaml class
+
 Transpiles into string that can be copy-pasted into Python repl to execute the following functions
 
 * Golomb term of n
