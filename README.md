@@ -6,4 +6,4 @@ Transpiles into string that can be copy-pasted into Python repl to execute the f
 * Reversal of a list (ex. [1;2;3;NIL])
 
 
-All numbers are expressed in functions (ex. zero = $\lambda f.\lambda.x.x$)
+All numbers are expressed in functions (ex. zero = $'\lambda f.\lambda.x.x'$)
